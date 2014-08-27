@@ -1,0 +1,25 @@
+.building {
+	fill: #0a0;
+	stroke: none;
+}
+
+.road {
+  stroke: #777;
+}
+
+.kind-highway:hover{
+	stroke:#000;
+}
+
+.kind-highway {
+  stroke-width: 5px;
+  stroke: #a00;
+}
+.kind-major_road {
+  stroke-width: 3px;
+  stroke: #ff6500;
+}
+.kind-minor_road {
+  stroke-width: 1px;
+  stroke: #cc9500;
+}
